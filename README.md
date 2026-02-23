@@ -10,3 +10,6 @@ Publishes events:
 
 agent.deploy.requested
 agent.deploy.completed
+
+Uses:
+NATS
